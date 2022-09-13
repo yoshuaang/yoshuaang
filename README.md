@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning about Backend Project using Golang (Go) and Frontend using Flutter (Dart)
+- 🌱 I’m currently learning about Backend Project using Golang (Go) and Android Frontend using Flutter (Dart)
 - 💬 Ask me about anything
 - 📫 How to reach me: email me at yoshuaang@gmail.com
 <!--
